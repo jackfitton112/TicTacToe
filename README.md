@@ -15,13 +15,19 @@ The algorithm is not perfect and can be beaten.
 ## How to play
 There is some configuration that can be done in the `config.py` file.
 
-Firstly, install `requirements.txt` using 
+Firstly, Clone the repo using
+
+```bash
+git clone https://github.com/jackfitton112/TicTacToe.git
+```
+
+Then install `requirements.txt` using 
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Then edit the `config.py` file to your liking. The options are as follows:
+Edit the `config.py` file to your liking. The options are as follows:
 
 ```python
 
